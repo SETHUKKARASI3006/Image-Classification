@@ -6,7 +6,10 @@ To Develop a convolutional deep neural network for image classification and to v
 
 ## Problem Statement and Dataset:
 
-To classify the given image into its respective class.
+The problem statement focuses on developing a Convolutional Neural Network (CNN) for image classification. The goal is to classify images into predefined categories based on learned patterns.
+
+The dataset typically consists of labeled images belonging to distinct classes. In this case, the example suggests classifying handwritten digits (0-9), which aligns with popular datasets like MNIST. Each image in the dataset represents a digit, with corresponding labels allowing the model to learn and predict digit classes.
+
 
 
 ## Neural Network Model
