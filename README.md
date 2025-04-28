@@ -41,7 +41,7 @@ Save the trained model, visualize predictions, and integrate it into an applicat
 
 ## PROGRAM
 
-### Name: SETUUKKARASI C
+### Name: SETHUKKARASI C
 ### Register Number: 212223230201
 ```python
 class CNNClassifier(nn.Module):
